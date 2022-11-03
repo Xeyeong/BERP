@@ -8,7 +8,7 @@
 <head>
 <meta charset="UTF-8">
 <title>타이틀</title>
-<link rel='stylesheet' type='text/css' href='css/common.css?<%=new java.util.Date()%>'>
+<link rel='stylesheet' type='text/css' href='/css/app.css?<%=new java.util.Date()%>'>
 </head>
 <body>
 <tiles:insertAttribute name='container'/>
