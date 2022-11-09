@@ -1,19 +1,6 @@
 @charset "UTF-8";
 
-*{
-	margin: 0;
-	padding: 0	
-}
-
-html{
+.logo{
 	display: flex;
-	justify-content: center;
-}
-
-body{
-	
-}
-
-ul{
-	list-style: none;	
+	place-items : self-end;
 }
